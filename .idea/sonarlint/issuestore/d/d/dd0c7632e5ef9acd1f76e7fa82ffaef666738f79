@@ -1,0 +1,8 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê˜¾8ŞÉ¼çá1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ïĞóşÿÿÿÿ8àÉ¼çá1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼Ê„†ıÿÿÿÿ8àÉ¼çá1
+e
+java:S1214"CMove constants defined in this interfaces to another class or enum.(ğäìÊùÿÿÿÿ8áÉ¼çá1
+G	java:S106$"+Replace this use of System.out by a logger.(ˆåıØ8—¦¾çá1

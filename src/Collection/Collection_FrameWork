@@ -1,0 +1,6 @@
+collection_framework-:It define sevral classes and interfaces to represent a group of Objects in single entity that's
+call Collection framework.
+
+There are 9 interfaces in java-:
+collection          set         List        sortedSet           navigableSet
+Queue               Map         SortedMap   navigableMap

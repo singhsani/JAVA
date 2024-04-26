@@ -1,0 +1,20 @@
+
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ì £·ã1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÅÏ¸ûÿÿÿÿ8í £·ã1
+e
+java:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ8ï £·ã1
+X	java:S125"<This block of commented-out lines of code should be removed.(ØÅþÇ8ñ £·ã1
+L	java:S106"+Replace this use of System.out by a logger.(šÇé¬ÿÿÿÿÿ8ò £·ã1
+]	java:S125"<This block of commented-out lines of code should be removed.(Õüæ­ýÿÿÿÿ8ò £·ã1
+E	java:S108")Either remove or fill this block of code.(”ý¾8ò £·ã1
+E	java:S108")Either remove or fill this block of code.(Úîø›8ò £·ã1
+E	java:S108 ")Either remove or fill this block of code.(”ý¾8ò £·ã1
+J	java:S108'")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ8ò £·ã1
+J	java:S108*")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ8ò £·ã1
+E	java:S108,")Either remove or fill this block of code.(Úîø›8ò £·ã1
+L	java:S1063"+Replace this use of System.out by a logger.(Ù¿éûÿÿÿÿ8ó £·ã1
+L	java:S1064"+Replace this use of System.out by a logger.(šÇé¬ÿÿÿÿÿ8ó £·ã1
+L	java:S1066"+Replace this use of System.out by a logger.(šÇé¬ÿÿÿÿÿ8Î¥¤·ã1
+G	java:S1068"+Replace this use of System.out by a logger.(¦Æï÷8ƒÞ¤·ã1
+L	java:S106:"+Replace this use of System.out by a logger.(Æì° úÿÿÿÿ8¦©·ã1
