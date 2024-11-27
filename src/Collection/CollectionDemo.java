@@ -4,7 +4,7 @@ import java.util.*;
 
 public class CollectionDemo {
     public static void main(String[] args) {
-        /**
+        /**  ArrayList
          * Arraylist order preserved
          * duplicate are allowed
          * insertion and deletion in middle  not best choice Array
@@ -19,7 +19,7 @@ public class CollectionDemo {
         l.add(5);
         l.add(2);
         System.out.println(l.toString());
-        /**
+        /** LinkedList
          * Linkedlist insertion order preserved
          * insertion and delection in middle then linkedList is best choice
          * growable in nature
@@ -36,7 +36,7 @@ public class CollectionDemo {
         ll.add(9);
         ll.add(3);
         System.out.println(ll.toString());
-        /**
+        /** Vector
          * insertion order preserved
          * duplicate are allowed
          * Vector implements RandomAccess,serilaziable and cloneable interface
@@ -50,7 +50,7 @@ public class CollectionDemo {
         v.addElement(4);
         v.addElement(5);
         System.out.println(v.toString());
-        /**
+        /** Stack
          * when user required first in and last out then we should go to stack
          * it is child of vector
          */
