@@ -1,6 +1,8 @@
 package ExceiptionHandling;
 
-public class CustmizedException extends RuntimeException {
+import java.util.concurrent.CompletionException;
+
+public class CustmizedException extends CompletionException {
     public static void main(String[] args) throws Exception {
         /**
          * abnormal code

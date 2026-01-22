@@ -66,10 +66,13 @@ public class MapExample {
          */
         HashMap hm=new HashMap();
         Integer i=new Integer(4);
-        Integer j=new Integer(4);
+        Integer j=new Integer(5);
+        System.out.println(i.hashCode());
         hm.put(i,"10");
         hm.put(j,"20");
-        System.out.println(hm);
+        hm.put(i,"30");
+        System.out.println(i.hashCode());
+        System.out.println("hash Map output"+hm);
         IdentityHashMap identityHashMap=new IdentityHashMap();
         identityHashMap.put(i,"10");
         identityHashMap.put(j,"20");
@@ -120,6 +123,15 @@ public class MapExample {
         hashtable.put(new Test(15),"B");
         hashtable.put(36,"A");
         System.out.println(hashtable);
+
+
+        System.out.println("________________________________________________");
+        HashMap<String, String> map = new HashMap<>();
+        map.put("FB", "First Value"); // Step A
+        map.put("Ea", "Second Value");
+        System.out.println("FB".hashCode());
+        System.out.println("Ea".hashCode());
+
 
     }
 

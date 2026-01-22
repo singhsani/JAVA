@@ -41,7 +41,7 @@ public class FinallyBlock {
         }catch(Exception e) {
             try{
 
-                 }catch(Exception e){
+                 }catch(Exception ex){
 
             }
         }
